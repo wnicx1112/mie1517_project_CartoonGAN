@@ -7,13 +7,12 @@ This project is a Python-based application that converts images into cartoon-sty
 
 ## Project Structure
 
-
-app/: Main app scripts and requirements
-
-dataset/: Dataset folder for training/testing
-
-best_checkpoint.pth: Pretrained model for inference
-
 Group7_Final_Report.ipynb: Full project report
 
 Group 7 Presentation_Final.pptx: Final presentation slides
+
+app/: PyTorch-based application that transforms regular photos and videos into cartoon style.
+
+dataset/: Dataset folder for training/testing
+
+best_checkpoint.pth: Best model for inference
