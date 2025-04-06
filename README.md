@@ -1,7 +1,8 @@
 # mie1517_project_CartoonGAN
 
+This project addresses the challenge of generating cartoon-style images from real-world photographs using Generative Adversarial Networks (GANs). The main goal is to bridge the stylistic gap between realistic visuals and the expressive, stylized nature of cartoons—a crucial step as animation gains prominence across film, advertising, gaming, and social media. A notable example is Ne Zha 2, which grossed over $1.7 billion globally, underscoring the growing influence and market potential of animated content.
 
-This project is a Python-based application that converts images into cartoon-style artwork using deep learning. It includes model training and inference, an application interface, and supporting documentation. Specific main report is in the Group7_Final_Report.html file.
+Specific main report is in the Group7_Final_Report.html file.
 
 ---
 
