@@ -7,7 +7,7 @@ This project is a Python-based application that converts images into cartoon-sty
 
 ## Project Structure
 
-Group7_Final_Report.ipynb: Full project report (in jupyter notebook)
+Group7_Final_Report.ipynb: Full project report (in jupyter notebook)[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wnicx1112/mie1517_project_CartoonGAN/blob/main/Group7_Final_Report.ipynb)
 
 Group7_Final_Report.html: Full project report (in html file)
 
