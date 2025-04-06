@@ -1,13 +1,13 @@
 # mie1517_project_CartoonGAN
 
 
-This project is a Python-based application that converts images into cartoon-style artwork using deep learning. It includes model training and inference, an application interface, and supporting documentation.
+This project is a Python-based application that converts images into cartoon-style artwork using deep learning. It includes model training and inference, an application interface, and supporting documentation. Specific main report is in the Group7_Final_Report.html file.
 
 ---
 
 ## Project Structure
 
-Group7_Final_Report.ipynb: Full project report (in jupyter notebook)[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wnicx1112/mie1517_project_CartoonGAN/blob/main/Group7_Final_Report.ipynb)
+Group7_Final_Report.ipynb: Full project report (in jupyter notebook)
 
 Group7_Final_Report.html: Full project report (in html file)
 
