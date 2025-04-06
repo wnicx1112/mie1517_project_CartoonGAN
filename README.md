@@ -19,3 +19,35 @@ app/: PyTorch-based application that transforms regular photos and videos into c
 dataset/: Dataset folder for training/testing
 
 best_checkpoint.pth: Best model for inference
+
+
+## Reference
+
+Article for CartoonGAN: https://tobiassunderdiek.github.io/cartoon-gan/#ref_1
+
+Transfer model: https://github.com/TobiasSunderdiek/cartoon-gan/releases
+
+### Testing dataset
+Starry Sky
+Google Images link
+Theme: Pictures of starry skies.
+
+Valley
+Google Images link
+Theme: Images of mountain valleys.
+
+Countryside
+Google Images link
+Theme: Countryside or rural scenery.
+
+Landscape
+Google Images link
+Theme: General scenic or landscape images.
+
+City
+Google Images link
+Theme: Urban or cityscapes.
+
+Warm Nature
+Google Images link
+Theme: Warm and cozy nature scenes.
