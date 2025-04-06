@@ -7,7 +7,9 @@ This project is a Python-based application that converts images into cartoon-sty
 
 ## Project Structure
 
-Group7_Final_Report.ipynb: Full project report
+Group7_Final_Report.ipynb: Full project report (in jupyter notebook)
+
+Group7_Final_Report.html: Full project report (in html file)
 
 Group 7 Presentation_Final.pptx: Final presentation slides
 
