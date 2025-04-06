@@ -5,7 +5,7 @@ This project is a Python-based application that converts images into cartoon-sty
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 
 app/: Main app scripts and requirements
